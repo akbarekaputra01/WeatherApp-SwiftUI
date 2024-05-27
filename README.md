@@ -1,6 +1,6 @@
-# WeatherApp-swiftui
+# WeatherApp-swiftUI
 
-WeatherApp-swiftui is a simple weather app built using the SwiftUI framework. This app allows users to monitor current weather conditions and forecast future weather at their location.
+WeatherApp-swiftUI is a simple weather app built using the SwiftUI framework. This app allows users to monitor current weather conditions and forecast future weather at their location.
 
 ![Light Home Screen](./assets/images/readme/mockup.png)
 
